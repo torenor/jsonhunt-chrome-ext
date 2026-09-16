@@ -12,6 +12,7 @@ Denne extension:
 - Behandler dataene videre med ditt eget verktøy
 
 ---
+![eksempel](demosite.png)
 
 ## Installasjons-guide
 
