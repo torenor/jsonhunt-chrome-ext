@@ -478,7 +478,6 @@ json-saver-extension/
 ```
 
 ```mermaid
-
 flowchart TB
     subgraph PAGE_WORLD ["MAIN World (Siden sitt eget JS-miljø)"]
         Website ["Nettsidens scripts"]
